@@ -1,2 +1,2 @@
-# Decision_Trees
-Applying Decision Trees Algorithm for classification process
+# Decision Trees
+Applying Decision Trees algo for Classification Process
